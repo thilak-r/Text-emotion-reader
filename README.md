@@ -95,7 +95,7 @@ Follow these steps to set up and run the application:
 ## 🙏 Acknowledgments
 
 
-- This project is done under guidance of [Dr Agughasi Victor Ikechukwu](https://github.com/Victor-Ikechukwu)
+- [Dr Agughasi Victor Ikechukwu](https://github.com/Victor-Ikechukwu)
 
 
 Feel free to contribute, report issues, or suggest features to thilak22005@gmail.com
